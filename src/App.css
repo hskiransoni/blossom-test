@@ -1,0 +1,52 @@
+body {
+  background: #ccc;
+  font-family: helvetica, arial;
+  font-size: 16px;
+}
+
+input {
+  font-family: helvetica, arial;
+  font-size: 16px;
+}
+
+#app {
+  width: 50%;
+  margin: auto;
+  background: white;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+.film-list {
+  padding: 0;
+}
+
+.film-list li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  list-style: none;
+  margin-top: 10px;
+}
+
+.thumbnail{
+  max-width: 80px;
+}
+
+.table{
+  display: table;
+  width: 100%;;
+}
+
+.table-row{
+  display: table-row;
+  width: 100%;;
+}
+
+.table-cell{
+  display: table-cell;
+  vertical-align: top;
+}
+
+.width100{
+  width: 100px;  
+}
